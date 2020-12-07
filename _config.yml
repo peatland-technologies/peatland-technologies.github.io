@@ -1,1 +1,8 @@
+title: >
+  <center></center>
+  <a href="#" style="color: white; text-decoration: none">Peatland Technologies, LLC</a>
+  <h4><strong>Contact:</strong> <a href="mfloyd@peatland-technologies.com">mfloyd@peatland-technologies.com</a></h4>
+description: energy to fight climate change
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
