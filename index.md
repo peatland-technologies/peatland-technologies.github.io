@@ -9,22 +9,22 @@
 
 <div class="row">
 
-<div class="col-lg-4 col-md-4 col-xs-4 thumb">
+<div class="col-lg-3 col-md-3 col-xs-3 thumb">
     <a class="thumbnail" href="#">
         <img class="img-responsive" src="/img/img3394_opt.jpg" alt="">
     </a>
 </div>
-<div class="col-lg-4 col-md-4 col-xs-4 thumb">
+<div class="col-lg-3 col-md-3 col-xs-3 thumb">
     <a class="thumbnail" href="#">
         <img class="img-responsive" src="/img/img3397_opt.jpg" alt="">
     </a>
 </div>
-<div class="col-lg-4 col-md-4 col-xs-4 thumb">
+<div class="col-lg-3 col-md-3 col-xs-3 thumb">
     <a class="thumbnail" href="#">
         <img class="img-responsive" src="/img/img3513_opt.jpg" alt="">
     </a>
 </div>
-<div class="col-lg-4 col-md-4 col-xs-4 thumb">
+<div class="col-lg-3 col-md-3 col-xs-3 thumb">
     <a class="thumbnail" href="#">
         <img class="img-responsive" src="/img/img3690_opt.jpg" alt="">
     </a>
