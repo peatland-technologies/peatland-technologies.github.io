@@ -22,5 +22,8 @@
         <img class="img-responsive" src="/img/img3513_opt.jpg" alt="">
     </a>
 </div>
-
-![img4](/img/img3690_opt.jpg)
+<div class="col-lg-4 col-md-4 col-xs-4 thumb">
+    <a class="thumbnail" href="#">
+        <img class="img-responsive" src="/img/img3690_opt.jpg" alt="">
+    </a>
+</div>
