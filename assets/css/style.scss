@@ -1,8 +1,9 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
-
-header {
-  display: none;
+@import "{{ site.theme }}";
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
 }
