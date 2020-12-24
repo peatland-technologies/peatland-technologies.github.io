@@ -38,13 +38,13 @@
 <form action="" method="POST">
   <input type="hidden" name="_subject" value="Information request from peatland-technologies website." />
   <div class="form-group">
-    <label for="exampleInputEmail1">Email:</label>
+    <label for="exampleInputEmail1">Email</label>
     <input type="email" name="_replyto" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <div class="form-group">
-    <label for="exampleFormControlTextarea1">Message:</label>
-    <textarea name="message" placeholder="Type your message" class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+    <label for="exampleFormControlTextarea1">Message</label>
+    <textarea name="message" placeholder="Type your message." class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
   </div>
   <button type="submit" class="btn btn-primary">Send</button>
 </form>
