@@ -7,7 +7,7 @@
 
 <p>Peatland Technologies wants to fight the impending climate crisis while simultaneously meeting ever-increasing human energy demands sustainably by tapping the planet’s most underutilized resource: microbes.</p>
 
-<div class="row">
+<!-- <div class="row">
 
 <div class="col-lg-3 col-md-3 col-xs-3 thumb">
     <a class="thumbnail" href="#">
@@ -32,18 +32,18 @@
 
 </div>
 <br>
-<hr>
+<hr> -->
 
 <h2> Get in Touch</h2>
 <form action="" method="POST">
   <input type="hidden" name="_subject" value="Information request from peatland-technologies website." />
   <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
+    <label for="exampleInputEmail1">Email:</label>
     <input type="email" name="_replyto" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <div class="form-group">
-    <label for="exampleFormControlTextarea1">Message</label>
+    <label for="exampleFormControlTextarea1">Message:</label>
     <textarea name="message" placeholder="Type your message" class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
   </div>
   <button type="submit" class="btn btn-primary">Send</button>
