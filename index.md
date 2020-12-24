@@ -36,7 +36,7 @@
 <br>
 <hr> -->
 
-<h2> Get in Touch</h2>
+<h3> Get in Touch</h3>
 <form action="" method="POST">
   <input type="hidden" name="_subject" value="Information request from peatland-technologies website." />
   <div class="form-group">
