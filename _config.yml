@@ -2,6 +2,7 @@ title: >
   <center><a href="#"><img src="img/Peatland-Technologies-logo.jpg" width="750"></a></center>
 description: energy to fight climate change
 url: https://peatland-technologies.github.io
+baseurl: ""
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
